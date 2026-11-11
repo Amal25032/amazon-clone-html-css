@@ -1,1 +1,1 @@
-# Amazon-cloneproject
+# amazon-clone-html-css
